@@ -8,4 +8,9 @@ This is an interesting ball system built using OpenGL. It allows for the creatio
 - The OpenGL scaffold is located in the OpenGL-Core folder and includes vendor files. It can be used as a starting point for creating projects using OpenGL.
 
 ## Example
-
+![init](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/init.gif)
+![bouncy](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/bouncy.gif)
+more bouncy balls
+<source src="https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/morebouncy.mp4" type="video/mp4">
+a normal solar system
+<source src="https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/nbody.mp4" type="video/mp4">
