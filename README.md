@@ -9,8 +9,8 @@ This is an interesting ball system built using OpenGL. It allows for the creatio
 
 ## Example
 ![init](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/init.gif)
-![bouncy](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/bouncy.gif)
+![bouncy](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/bouncy.gif)  
 more bouncy balls 
-<video src="https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/morebouncy.mp4"  width="500" height="250" controls="controls"></video>
+https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/morebouncy.mp4
 a normal solar system  
-<video src="https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/nbody.mp4"  width="500" height="250" controls="controls"></video>
+https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/videos/nbody.mp4
