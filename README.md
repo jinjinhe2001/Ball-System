@@ -9,7 +9,7 @@ This is an interesting ball system built using OpenGL. It allows for the creatio
 
 ## Example
 ![init](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/init.gif)
-![bouncy](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/bouncy.gif)
+![bouncy](https://github.com/jinjinhe2001/Ball-System/blob/main/Readme/images/bouncy.gif)  
 more bouncy balls   
 
 
